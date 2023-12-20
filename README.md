@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadaliridha
 - 👀 I’m interested in QA Testing
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently using cypress for automation
 
 <!---
 muhammadaliridha/muhammadaliridha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
